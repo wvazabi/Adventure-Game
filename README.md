@@ -33,6 +33,12 @@ In this game, you embark on an adventure in a text-based world. The objective is
 2. Open the project in your preferred Java development environment (e.g., IntelliJ IDEA, Eclipse).
 3. Compile and run the main Java file to start the game.
 
+## Screen Shoots
+
+|     Tool Store     | Loc: Mine  Obs: Snake |     
+| ------------------ | --------------------- |  
+| <img src="https://github.com/wvazabi/Adventure-Game/blob/main/Adventure%20Game%20Images/toolstore.png" weight="500" height="600"> | <img src="https://github.com/wvazabi/Adventure-Game/blob/main/Adventure%20Game%20Images/snake.png" weight="500" height="600"> | 
+
 ## Credits
 This game is created by Enes KAYA. Feel free to contribute to the project by submitting pull requests or opening issues for suggestions and bug reports.
 

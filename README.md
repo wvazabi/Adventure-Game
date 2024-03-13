@@ -37,7 +37,7 @@ In this game, you embark on an adventure in a text-based world. The objective is
 
 |     Tool Store     | Loc: Mine  Obs: Snake |     
 | ------------------ | --------------------- |  
-| <img src="https://github.com/wvazabi/Adventure-Game/blob/main/Adventure%20Game%20Images/toolstore.png" weight="500" height="600"> | <img src="https://github.com/wvazabi/Adventure-Game/blob/main/Adventure%20Game%20Images/snake.png" weight="500" height="600"> | 
+| <img src="https://github.com/wvazabi/Adventure-Game/blob/main/Adventure%20Game%20Images/toolstore.png" weight="500" height="500"> | <img src="https://github.com/wvazabi/Adventure-Game/blob/main/Adventure%20Game%20Images/snake.png" weight="500" height="500"> | 
 
 ## Credits
 This game is created by Enes KAYA. Feel free to contribute to the project by submitting pull requests or opening issues for suggestions and bug reports.
